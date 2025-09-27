@@ -1,0 +1,86 @@
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+Wifi Bağlantısı Bekleniyor
+HTTP Yanıt Kodu: 200
+Yanıt İçeriği:
+Device connected status updated, IP: 192.168.1.238, MAC: F4:65:0B:48:16:08
+>> INFO verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data_info":[{"name":"ErrorCode","type":"int","max_val":"255","min_val":"0","val_names":["","","","","",""],"updated":2,"access":1},{"name":"FanSpeed","type":"int","max_val":"6","min_val":"0","val_names":["","","","","",""],"updated":2,"access":2},{"name":"Humidity","type":"int","max_val":"100","min_val":"0","val_names":["","","","","",""],"updated":2,"access":1},{"name":"OperatingMode","type":"int","max_val":"5","min_val":"0","val_names":["","","","","",""],"updated":2,"access":2},{"name":"PowerState","type":"int","max_val":"1","min_val":"0","val_names":["","","","","",""],"updated":2,"access":1},{"name":"PowerStatus","type":"int","max_val":"1","min_val":"0","val_names":["Off","On","","","",""],"updated":2,"access":2},{"name":"SleepMode","type":"int","max_val":"3","min_val":"0","val_names":["Off","Light Sleep","Deep Sleep","Ultra Deep Sleep","",""],"updated":2,"access":2},{"name":"Temperature","type":"int","max_val":"50","min_val":"0","val_names":["","","","","",""],"updated":2,"access":1},{"name":"WANT SEX?","type":"int","max_val":"1","min_val":"0","val_names":["","","","","",""],"updated":2,"access":1}]}
+✅ Info verisi başarıyla gönderildi. HTTP Kodu: 200
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"0","updated":2},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"45","updated":2},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"1","updated":2},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"24","updated":2},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"88","updated":1758045916},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"15","updated":1758045916},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045916},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"32","updated":1758045916},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ Heartbeat Alındı. Son ping'den bu yana geçen süre: 4944 ms
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"20","updated":1758045918},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"33","updated":1758045918},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045918},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"13","updated":1758045918},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"227","updated":1758045921},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"35","updated":1758045921},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045921},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"10","updated":1758045921},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ Heartbeat Alındı. Son ping'den bu yana geçen süre: 5124 ms
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"84","updated":1758045923},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"82","updated":1758045923},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045923},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"37","updated":1758045923},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"137","updated":1758045926},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"53","updated":1758045926},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045926},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"25","updated":1758045926},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ Heartbeat Alındı. Son ping'den bu yana geçen süre: 5115 ms
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"66","updated":1758045928},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"56","updated":1758045928},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"1","updated":1758045928},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"18","updated":1758045928},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"133","updated":1758045931},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"47","updated":1758045931},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045931},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"50","updated":1758045931},{"name":"WANT SEX?","value":"0","updated":2}]}
+✅ Heartbeat Alındı. Son ping'den bu yana geçen süre: 5118 ms
+✅ DATA verisi başarıyla gönderildi. HTTP Kodu: 200
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> Kullanıcı döngüsü çalışıyor...
+MAC=>>>=>>=>==>=>=>> F4:65:0B:48:16:08
+>> DATA verisi sunucuya gönderiliyor...
+Gönderilen JSON: {"mac_address":"F4:65:0B:48:16:08","data":[{"name":"ErrorCode","value":"139","updated":1758045934},{"name":"FanSpeed","value":"0","updated":2},{"name":"Humidity","value":"59","updated":1758045934},{"name":"OperatingMode","value":"5","updated":2},{"name":"PowerState","value":"0","updated":1758045934},{"name":"PowerStatus","value":"0","updated":2},{"name":"SleepMode","value":"0","updated":2},{"name":"Temperature","value":"46","updated":1758045934},{"name":"WANT SEX?","value":"0","updated":2}]}

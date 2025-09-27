@@ -1,0 +1,29 @@
+{
+	"mac_address":"F4:65:0B:47:34:08",
+	"data_info":
+	[
+	{"name":"ErrorCode","type":"int","max_val":"255","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":1},
+	{"name":"FanSpeed","type":"int","max_val":"6","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":2},
+	{"name":"Humidity","type":"int","max_val":"100","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":1},
+	{"name":"OperatingMode","type":"int","max_val":"5","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":2},
+	{"name":"PowerState","type":"int","max_val":"1","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":1},
+	{
+		"name":"PowerStatus",
+		"type":"int",
+		"max_val":"1",
+		"min_val":"0",
+		"val_names":["Off","On","","","",""],
+		"updated":1757853307,
+		"access":1
+	},
+	{
+		"name":"SleepMode",
+		"type":"int",
+		"max_val":"3",
+		"min_val":"0",
+		"val_names":["Off","Light Sleep","Deep Sleep","Ultra Deep Sleep","",""],
+		"updated":1757853307,
+		"access":2},
+	{"name":"Temperature","type":"int","max_val":"50","min_val":"0","val_names":["","","","","",""],"updated":1757853307,"access":1}
+	]
+}
