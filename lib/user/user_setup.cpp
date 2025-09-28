@@ -5,6 +5,7 @@ extern best_data dataManager;
 void push_info_to_server();
 
 void user_setup() {
+    dataManager.add_data("UnitPower", "int", "1", "0", "0", AccessLevel:ReadWrite);
       // ——— Sadece okunabilir veriler ———
   dataManager.add_data("WANT SEX?", "int", "1",  "0",  "0",  AccessLevel::ReadOnly);
   dataManager.add_data("Temperature", "int", "50",  "0",  "24",  AccessLevel::ReadOnly);
